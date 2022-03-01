@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief  rule to guide the common-people of New-England how to order themselves and theirs in the small pocks, or measels.</title>
+            <author>Thacher, Thomas, 1620-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10123</idno>
+            <idno type="STC">Wing T829</idno>
+            <idno type="STC">ESTC W35183</idno>
+            <idno type="EEBO-CITATION">69648957</idno>
+            <idno type="OCLC">ocm 69648957</idno>
+            <idno type="VID">185101</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10123)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185101)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2886:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief  rule to guide the common-people of New-England how to order themselves and theirs in the small pocks, or measels.</title>
+                  <author>Thacher, Thomas, 1620-1678.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by John Foster,</publisher>
+                  <pubPlace>Boston :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: "Thomas Thacher."</note>
+                  <note>Reproduction of original in: Massachusetts Historical Society Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Smallpox --  Massachusetts --  Early works to 1800.</term>
+               <term>Measles --  Massachusetts --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185101:1"/>
+            <head>A BRIEF RULE <hi>To guide the Common-People of</hi> NEW-ENGLAND How to order themſelves and theirs in the Small Pocks, or Meaſels.</head>
+            <p>THe <hi>ſmall Pox</hi> (whoſe nature and cure the <hi>Meaſels</hi> follow) is a diſeaſe in the blood, endeavouring to recover a new form and ſtate.</p>
+            <p>2. This nature attempts—1. By Separation of the impure from the pure, thruſting it out from the Veins to the Fleſh.—2. By driving out the imp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re from the Fleſh to the Skin.</p>
+            <p>3. The firſt Separation is done in the firſt four dayes by a Feaveriſh boyling (Ebulli<g ref="char:EOLhyphen"/>tion) of the Blood, laying down the impurities in the Fleſhy parts which kindly effected the Feaveriſh tumult is calmed.</p>
+            <p>4. The ſecond Separation from the Fleſh to the Skin, or <hi>Superficies</hi> is done through the reſt of the time of the diſeaſe.</p>
+            <p>5. There are ſeveral Errors in ordering theſe ſick ones in both theſe Operations of Nature which prove very dangerous and commonly deadly either by overmuch haſten<g ref="char:EOLhyphen"/>ing Nature beyond its own pace, or in hindering of it from its own vigorous operation.</p>
+            <p>6. The Separation by Ebullition in the Feaveriſh heat is over heightned by too much Clothes, too hot a room hot <hi>Cordials,</hi> as <hi>Diaſcordium, Gaſcons powder</hi> and ſuch like, for hence come <hi>Phrenzies,</hi> dangerous exceſſive ſweats, or the flowing of the Pocks in<g ref="char:EOLhyphen"/>to one overſpreading ſore, vulgarly called the Flox.</p>
+            <p>7. The ſame ſeparation is overmuch hindred by prepoſterous cooling that Feaveriſh boyling heat, by <hi>blood letting, Glyſters, Vomits, purges,</hi> or <hi>cooling medicines.</hi> For though theſe many times haſten the coming forth of the <hi>Pox,</hi> yet they take away that ſupply which ſhould keep them out till they are ripe, wherefore they ſink in again to the dead<g ref="char:EOLhyphen"/>ly danger of the ſick.</p>
+            <p>8. If a <hi>Phrenſie</hi> happen, or through a <hi>Plethorie</hi> (that is fulneſs of blood) the Circula<g ref="char:EOLhyphen"/>tion of the blood be hindred, and thereupon the whole maſs of blood choaked up, then either let blood, Or ſee that their diet, or medicines be not altogether cooling, but let them in no wiſe be heating, therefore let him lye no otherwiſe covered in his bed then he was wont in health: His Chamber not made hot with fire if the weather be temperate, let him drink ſmall Beer only warm'd with a Toſt, let him ſup up thin <hi>water-gruel,</hi> or <hi>wa<g ref="char:EOLhyphen"/>ter-pottage</hi> made only of Indian Flour and water, inſtead of <hi>Oat-meal:</hi> Let him eat <hi>boild App<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es:</hi> But I would not adviſe at this time any medicine beſides. By this means that ex<g ref="char:EOLhyphen"/>ceſſive <hi>Ebullition</hi> (or boyling of his blood) will by degrees abate, and the Symptoms ceaſe; If not, but the blood be ſo inraged that it will admit no delay<g ref="char:punc">▪</g> then either let blood (if Age will bear it) or elſe give ſome notably cooling medicine, or refreſh him with more free Air.</p>
+            <p>9. But if the boiling of the blood be weak and dull that there is cauſe to fear it is not able to work a Separation, as it's wont to be in ſuch as have been let blood, or are fat, or Flegmatick, or brought low by ſome other ſickneſs or labour of the <hi>(Gonorrhea)</hi> run<g ref="char:EOLhyphen"/>ning of the Reins, or ſome other Evacuation: In ſuch Caſes, <hi>Cordials</hi> muſt drive them out, or they muſt dy.</p>
+            <p>10. In time of driving out the <hi>Pocks</hi> from the Fleſh, here care muſt be had that the <hi>Puſtules</hi> keep out in a right meaſure till they have attain'd their end without going in again, for that is deadly.</p>
+            <p>11. In this time take heed when the <hi>Puſtules</hi> appear whilſt not yet ripe, leaſt by too much heat there ariſe a new <hi>Ebullition</hi> (or Feaveriſh boyling) for this troubles the dri<g ref="char:EOLhyphen"/>ving out, or brings back the ſeparated parts into the blood, or the Fleſhy parts over<g ref="char:EOLhyphen"/>heated are diſabled from a right ſuppuration or laſtly the temper of the blood and tone of the Fleſh is ſo perverted that it cannot overcome and digeſt matter driven out.</p>
+            <p>12. Yet on the other hand the breaking out muſt not be hindred, by expoſing the ſick unto the cold. The degree of heat muſt be ſuch as is natural agrees with the tem<g ref="char:EOLhyphen"/>per of the fleſhy parts: That which exceeds or falls ſhort is dangerous: Therefore the ſeaſon of the year, Age of the ſick, and their manner of life here require a diſcreet and different Conſideration, requiring the Counſel of an expert Phyſitian.</p>
+            <p>13. But if by any error a new <hi>Ebullition</hi> ariſeth, the ſame art muſt be uſed to allay it as is before expreſt.</p>
+            <p>14. If the <hi>Puſtles</hi> go in and a flux of the belly follows (for elſe there is no ſuch danger) then <hi>Cordials</hi> are to be uſed, yet moderate and not too often for fear of new <hi>Ebullition.</hi>
+            </p>
+            <p>15. If much ſpitting <hi>(Ptyaliſmus)</hi> follow. you may hope all will go well, therefore by no means hinder it: Only with warm ſmall Beer let their mouths be waſhed.</p>
+            <p>16. When the <hi>Puſtles</hi> are dryed and fallen, purge well, eſpecially if it be in <hi>Autumn.</hi>
+            </p>
+            <p>17. As ſoon as this diſeaſe therefore appears by its ſigns, let the ſick abſtein from Fleſh and Wine, and open Air, let him uſe ſmall Bear warmed with a Toſt for his ordi<g ref="char:EOLhyphen"/>nary drink, and moderately when he deſires it. For food uſe <hi>water-gruel, water-pot<g ref="char:EOLhyphen"/>tage,</hi> and other things having no manifeſt hot quality, eaſy of digeſtion, boild Apples, and milk ſometimes for change, but the coldneſs taken off. Let the uſe of his bed be according to the ſeaſon of the year, and the multitude of the <hi>Pocks,</hi> or as ſound perſons are wont. In Summer let him riſe according to cuſtome, yet ſo as to be defended both from heat and cold in Exceſs, the diſeaſe will be the ſooner over and leſs troubleſome, for being kept in bed nouriſheth the Feaveriſh heat and makes the <hi>Pocks</hi> break out with a painful inflamation.</p>
+            <p>19. In a colder ſeaſon, and breaking forth of a multitude of <hi>Puſtules,</hi> forcing the ſick to keep his bed, let him be covered according to his cuſtome in health, a moderate fire in the winter being kindled in his Chamber, morning and Evening: neither need he keep his Arms alwayes in bed, or ly ſtill in the ſame place, for fear leaſt he ſhould ſweat which is very dangerous eſpecially to youth.</p>
+            <p>20. Before the fourth day uſe no medicines to drive out, nor be too ſtrict with the ſick; for by how much the more gently the <hi>Paſtules</hi> do grow, by ſo much the fuller and perfecter will the Separation be.</p>
+            <p>21. On the fourth day a gentle <hi>Cordial</hi> may help once given.</p>
+            <p>22. From that time a ſmall draught of warm milk (not hot) a little dy'd with <hi>Saf<g ref="char:EOLhyphen"/>fron</hi> may be given morning and evening till the <hi>Puſtules</hi> are come to their due greatneſs and ripeneſs.</p>
+            <p>23. When the <hi>Puſtules</hi> begin to dry and cruſt, leaſt the rotten vapours ſtrike inward, which ſometimes cauſeth ſudden death; Take morning and evening ſome temperate <hi>Cordial</hi> as four or five ſpoonfuls of <hi>Malago Wine</hi> tinged with a little <hi>Saffron.</hi>
+            </p>
+            <p>24. When the <hi>Puſtules</hi> are dryd and fallen off, purge once and again, eſpecially in the <hi>Autumn Pocks.</hi>
+            </p>
+            <p>25. Beware of anointing with <hi>Oils, Fatts, Ointments,</hi> and ſuch defenſives, for keep<g ref="char:EOLhyphen"/>ing the corrupted matter in the <hi>Puſtules</hi> from drying up; by the moiſture, they fret deep<g ref="char:EOLhyphen"/>er into the Fleſh, and ſo make the more deep Scarrs.</p>
+            <p>26. The young and lively men that are brought to a plentiful ſweat in this ſickneſs, about the eighth day the ſweat ſtops of it ſelf, by no means afterwards to be drawn out again; the ſick thereupon feels moſt troubleſome diſreſt and anguiſh, and then makes abundance of water and ſo dyes.</p>
+            <p>Few young men and ſtrong thus handled eſcape, except they fall into abundance of ſpitting or plentiful bleeding at the noſe.</p>
+            <p>27. Signs diſcovering the Aſſault at firſt are beating pain in the head, Forehead, and temples, pain in the back, great ſleepineſs, gliſtring of the eyes, ſhining glimmerings ſeem before them, itching of them alſo, with tears flowing of themſelves, itching of the Noſe, ſhort breath, dry Cough, oft neezing, hoarſeneſs, heat<g ref="char:punc">▪</g> redneſs, and ſenſe of pricking over the whole body, terrors in the ſleep<g ref="char:punc">▪</g> ſorrow and reſtleſneſs, beating of the heart, <hi>
+                  <g ref="char:V">Ʋ</g>rine</hi> ſometimes as in health, ſometime filthy from great <hi>Ebullition,</hi> and all this or ma<g ref="char:EOLhyphen"/>ny of theſe with a Feaveriſh diſtemper.</p>
+            <p>28. Signs warning of the probable Event. If they break forth eaſily, quickly, and ſoon come to ripening, if the Symptomes be gentle, the Feaver mild, and after the breaking forth it abate; If the voice be free, and breathing eaſie; eſpecially if the Pox be red white diſtinct, ſoft few, round, ſharp top'd<g ref="char:punc">▪</g> only without and not in the in<g ref="char:EOLhyphen"/>ward parts; if there be large bleeding at the noſe. Theſe ſigns are hopeful.</p>
+            <p>29. But ſuch ſigns are doubtful, when they difficultly appear, when they ſink in a<g ref="char:EOLhyphen"/>gain. when they are black, blewiſh, green, hard, all in one, if the Feaver abate not with their breaking forth. if there be Swooning, difficulty of breathing, great thirſt, quinſey, great unquietneſs, and it is very dangerous, if there be ioyn'd with it ſome other malig<g ref="char:EOLhyphen"/>nant Feaver, called by ſome the peſtilential Pox: the <hi>Spotted Feaver</hi> is oft joyned with it.</p>
+            <p>30 Deadly Signs if the <hi>Flux</hi> of the <hi>Belly</hi> happen, when they are broke forth, if the Urine be bloody, or black, or the <hi>Ordure</hi> of that Colour; Or if pure blood be caſt out by the Belly or Gumms: Theſe Signs are for the moſt part deadly.</p>
+            <p>Theſe things have I written <hi>Candid Reader,</hi> not to imform the Learned <hi>Phyſitian</hi> that hath much more cauſe to underſtand what pertains to this diſeaſe than I, but to give ſome light to thoſe that have not ſuch advantages, leaving the difficulty of this diſeaſe to the <hi>Phyſitians</hi> Art, Wiſdome, and Faithfulneſs: for the right managing of them in the whole Courſe of the diſeaſe tends both to the <hi>Patients</hi> ſafety, and the <hi>Phyſitians</hi> diſired Succeſs in his Adminiſtrations: For in vain is the <hi>Phyſitians</hi> Art Imployed, if they are not under a <hi>Regular Regiment.</hi> I am, though no <hi>Phyſitian,</hi>yet a well wiſher to the ſick: And therefore intreating the Lord to turn our hearts, and ſtay his hand, I am<g ref="char:punc">▪</g>
+            </p>
+            <closer>
+               <signed>A Friend, Reader to thy Welfare, <hi>Thomas Thacher.</hi>
+               </signed>
+               <dateline>
+                  <date>21. 11, 1677/8.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>BOSTON, Printed and ſold by <hi>John Foſter.</hi> 1677.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
